@@ -1,0 +1,3 @@
+C++_Primer 978-7-121-15535-2 Stanley_B.Lippman
+Effective_C++ 978-7-121-12332-0 Scott_Meyers
+Deep_Learning 978-7-115-46147-6 Ian_Goodfellow
